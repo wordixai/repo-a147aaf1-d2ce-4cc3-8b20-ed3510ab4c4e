@@ -171,4 +171,4 @@ const SalesFeatures = () => {
   );
 };
 
-export default AIAssistant;
+export default SalesFeatures;
